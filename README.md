@@ -10,6 +10,51 @@
 
 ## 2025-09
 
+> ### 09/05-07 九月第一个周末 🗓
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>学会焊接技术</li>
+          <ul>
+            <li>改造家里的霓虹灯</li>
+            <li>改造展示柜灯</li>
+          </ul>
+          <li>布局优化</li>
+          <ul>
+            <li>更新手办柜摆放</li>
+            <li>更新电子相框摆放</li>
+            <li>重新优化手办展示柜顶部的线路布局</li>
+          </ul>
+          <li>大扫除</li>
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等待新的射灯</li>
+          <li>优化家里的网络信道</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        最开始的轨道灯系统其实可以规划的格局再大一些。<br>
+        电烙铁真的一个好的工具可以事半功倍。
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 > ### 09/04 周四 🗓
 <table>
   <thead>
