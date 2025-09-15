@@ -9,6 +9,87 @@
 - 待定
 
 ## 2025-09
+> ### 09/12-14 九月第二个周末 🗓
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>安装玄关的木灯</li>
+          <li>更新Homekit自动化</li>
+          <li>升级入户门的接电设备</li>  
+          <li>Home Assistant常规更新
+            <ul>
+              <li>接入所有的智能开关和智能插座</li>
+              <li>接入电视</li>
+              <li>更新前端布局</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等待新的射灯</li>
+          <li>解调器更新（？</li>
+          <li>等待新的相框（？</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        可以多备一些通用性的五金件，这次木灯的官方就没有发配件，最后用了无痕钉加相框胶的方式固定上了 应该还满牢固的，但肯定不如拧螺丝。<br>
+        插排可以选好一些的，使用上确实和其他的感受会不一样。<br>
+        同一个产品在Homekit和HA上的支持能力可能会有差异，这个是正常的，不过从大多数时候来看HA的也都够用。<br>
+        但也能够理解Homekit的简单上手相较于HA的高度客制化带来的复杂性还是有一定考究的。
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+> ### 09/08 周一 🗓
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>网络信道优化</li>
+          <li>修复家里的展示柜灯</li>
+          <li>Home Assistant UI更新提升</li>
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等待新的射灯</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        网络信道可以放在最左侧 最右侧为的zigbee协议 防止彼此干扰。<br>
+        电容式传感器在实用性和稳定性上都完全不如机械式的 差评。<br>
+        Home Ass对于布局的支持有一定的局限性 是按照stack 同一列最高的高度来进行差分的。
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 > ### 09/05-07 九月第一个周末 🗓
 <table>
@@ -33,7 +114,7 @@
             <li>更新电子相框摆放</li>
             <li>重新优化手办展示柜顶部的线路布局</li>
           </ul>
-          <li>电脑启动菜单优化<LI>
+          <li>电脑启动菜单优化</li>
           <li>大扫除</li>
         </ul>
       </td>
