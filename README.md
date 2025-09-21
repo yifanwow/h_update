@@ -9,6 +9,42 @@
 - 待定
 
 ## 2025-09
+> ### 09/19-21 九月第三个周末 🗓
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>洗手间安装新的壁柜</li>
+          <li>更多的绿植装饰</li>
+          <li>安装新的岛台射灯</li>  
+          <li>卧室副灯带更新</li>  
+          <li>玄关画框更新</li>  
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等待新的落地灯</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 > ### 09/12-14 九月第二个周末 🗓
 <table>
   <thead>
