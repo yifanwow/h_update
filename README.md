@@ -7,7 +7,51 @@
 
 ## 近期待办
 - 待定
-
+## 2025-10
+> ### 10 十月第三个周末 🗓
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>收纳线材</li>
+          <li>龟背竹调整姿态</li>
+          <li>植物修剪打顶</li>  
+          <li>厨房墙上器具收纳安装与升级</li>  
+          <li>中岛区域悬浮画框安装</li>
+          <li>收拾衣帽间</li>
+          <li>NAS置物架安装</li>
+          <li>更换了新的调料架</li>
+          <li>升级了一下客厅区域的星云灯</li>
+          <li>替换和安装了一部分海报</li>
+          <li>更多的jellycat</li>
+          <li>两个新的电器灯</li>
+          <li>更多的手办</li>
+          <li>电视区域两个新的落地灯</li>                      
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等国内海运的装饰性绿植到</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ## 2025-09
 > ### 09/19-21 九月第三个周末 🗓
 <table>
