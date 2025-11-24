@@ -3,12 +3,58 @@
 > 用 Git 记录每天家里做了什么（可视化 + 可检索 + 可复盘）
 
 ## 重点事项
+
 - 待定
 
 ## 近期待办
+
 - 待定
+
+## 2025-11
+
+> ### 十一月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>将电视机的高度向下进行了调整，增加观看时候的舒适度。</li>
+          <li>安装了临时的电视区域的海报框，减少顶部留白。</li>
+          <li>替换了一部分海报。</li>
+          <li>手办展示架进行了添置，同时也添加了更多的动漫立牌。</li>  
+          <li>为NAS安装了一个不间断电源。</li>
+          <li>HomeAssistant更新，修复历史问题。</li>                      
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等国内海运的装饰性绿植到。</li>
+          <li>等定制的海报框和定制的海报到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2025-10
+
 > ### 10 十月第三个周末 🗓
+
 <table>
   <thead>
     <tr>
@@ -31,7 +77,7 @@
           <li>升级了一下客厅区域的星云灯</li>
           <li>替换和安装了一部分海报</li>
           <li>更多的jellycat</li>
-          <li>两个新的电器灯</li>
+          <li>两个新的电气灯</li>
           <li>更多的手办</li>
           <li>电视区域两个新的落地灯</li>                      
         </ul>
@@ -52,8 +98,11 @@
     </tr>
   </tbody>
 </table>
+
 ## 2025-09
+
 > ### 09/19-21 九月第三个周末 🗓
+
 <table>
   <thead>
     <tr>
@@ -90,6 +139,7 @@
 </table>
 
 > ### 09/12-14 九月第二个周末 🗓
+
 <table>
   <thead>
     <tr>
@@ -136,6 +186,7 @@
 </table>
 
 > ### 09/08 周一 🗓
+
 <table>
   <thead>
     <tr>
@@ -172,6 +223,7 @@
 </table>
 
 > ### 09/05-07 九月第一个周末 🗓
+
 <table>
   <thead>
     <tr>
@@ -219,6 +271,7 @@
 </table>
 
 > ### 09/04 周四 🗓
+
 <table>
   <thead>
     <tr>
@@ -265,6 +318,7 @@
 </table>
 
 > ### 09/03 周三 🗓
+
 <table>
   <thead>
     <tr>
@@ -319,9 +373,8 @@
   </tbody>
 </table>
 
-
-
 > ### 09/02 周二 🗓
+
 <table>
   <thead>
     <tr>
@@ -362,8 +415,8 @@
   </tbody>
 </table>
 
-
 > ### 08/29 - 9/1 周一 🗓
+
 <table>
   <thead>
     <tr>
