@@ -9,7 +9,48 @@
 ## 近期待办
 
 - 待定
+## 2025-12
 
+> ### 十二月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+          <li>打顶和扦插了一下绿植。</li>
+          <li>重新调整了绿植区域的布局。</li>
+          <li>重新调整了猫爬架后面海报的布局。</li>
+          <li>归纳了大部分纸箱，腾空了一个收纳柜的位置。</li>
+          <li>更新了Home Assist的布局。</li>
+          <li>添置了家里的扫地机器人Roro。</li>  
+          <li>Plex数据整理，更新大部分影视资源的Banner</li>
+          <li>Plex字幕整理。</li>                      
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等国内海运的装饰性绿植到。</li>
+          <li>等定制的海报框和定制的海报到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ## 2025-11
 
 > ### 十一月改动 🗓
