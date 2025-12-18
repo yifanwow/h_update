@@ -24,19 +24,41 @@
     <tr>
       <td align="left" valign="top">
         <ul>
-          <li>打顶和扦插了一下绿植。</li>
-          <li>重新调整了绿植区域的布局。</li>
+         <li>绿植区域
+            <ul>
+              <li>打顶和扦插了一下绿植。</li>
+              <li>重新调整布局。</li>
+            </ul>
+          </li> 
           <li>重新调整了猫爬架后面海报的布局。</li>
           <li>归纳了大部分纸箱，腾空了一个收纳柜的位置。</li>
-          <li>更新了Home Assist的布局。</li>
-          <li>添置了家里的扫地机器人Roro。</li>  
-          <li>Plex数据整理，更新大部分影视资源的Banner</li>
-          <li>Plex字幕整理。</li>                      
+          <li>新伙伴们
+            <ul>
+              <li>安装扫拖机器人。</li>
+              <li>大量新的装饰性绿植。</li>
+              <li>升级了买米在卧室的自动饮水机-不锈钢-监测-水源续停。</li>
+              <li>升级了用了六年的烧水壶。</li>
+              <li>厨房加了一个装饰性的电影画框。</li>
+            </ul>
+          </li> 
+          <li>Plex软件更新
+            <ul>
+              <li>Plex数据整理，更新大部分影视资源的Banner</li>
+              <li>Plex字幕整理。</li>
+            </ul>
+          </li>   
+          <li>Home Assistant常规更新
+            <ul>
+              <li>更改布局</li>
+              <li>添置了家里的扫拖机器人Roro模块。</li>  
+              <li>添置了猫咪饮水机模块</li>
+              <li>路由器数据优化</li>
+            </ul>
+          </li>                      
         </ul>
       </td>
       <td align="left" valign="top">
         <ul>
-          <li>等国内海运的装饰性绿植到。</li>
           <li>等定制的海报框和定制的海报到。</li>
         </ul>
       </td>
@@ -51,6 +73,7 @@
     </tr>
   </tbody>
 </table>
+
 ## 2025-11
 
 > ### 十一月改动 🗓
