@@ -9,6 +9,70 @@
 ## 近期待办
 
 - 待定
+
+
+## 2026-1
+
+> ### 一月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>增加了电视柜上的装饰物</li>
+              <ul>
+              <li>随着声音舞动的视觉增强器。</li>
+              <li>Helldiver的1/4头雕。</li>
+               <li>辉光时钟。</li>
+               <li>迷你拉斯维加斯大球。</li>
+               <li>钢琴上的布鲁克装饰灯。</li>
+            </ul>
+          </li> 
+            </ul>
+          </li> 
+         <li>绿植区域
+            <ul>
+              <li>打顶和扦插了一下绿植。</li>
+              <li>重新调整布局。</li>
+            </ul>
+          </li> 
+          <li>卧室区域
+            <ul>
+              <li>升级了麦克风支架。</li>
+              <li>优化桌面布局。</li>
+              <li>增加了两个摆件。</li>
+            </ul>
+          </li>  
+          <li>更换了海报墙的照片。</li>
+          <li>新增了很多合照。</li>                     
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等定制的海报框和定制的海报到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2025-12
 
 > ### 十二月改动 🗓
@@ -45,6 +109,7 @@
               <li>升级了买米在卧室的自动饮水机-不锈钢-监测-水源续停。</li>
               <li>升级了用了六年的烧水壶。</li>
               <li>厨房加了一个装饰性的电影画框。</li>
+              <li>买米画框。</li>
             </ul>
           </li> 
           <li>Plex软件更新
