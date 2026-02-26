@@ -24,6 +24,12 @@
     <tr>
       <td align="left" valign="top">
         <ul>
+         <li>客厅区域
+            <ul>
+              <li>更换了定制的悬浮海报墙。</li>
+              <li>补漆+补洞优化了墙面显示效果。</li>
+            </ul>
+          </li> 
          <li>绿植区域
             <ul>
               <li>打顶和扦插了一下绿植。</li>
