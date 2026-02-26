@@ -11,7 +11,62 @@
 - 待定
 
 
-## 2026-1
+## 2026
+
+> ### 二月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>增加电视光纤信号的蓝牙输出</li>
+          </li> 
+            </ul>
+          </li> 
+          <li>网络
+            <ul>
+              <li>升级了hue bridge桥接器。</li>
+              <li>优化了2.4G网段的逻辑判断。</li>
+            </ul>
+          </li> 
+           <li>Home Assistant
+            <ul>
+              <li>全面优化了灯具UI和界面。</li>
+              <li>添加了门口开关感应器。</li>
+              <li>添加了两个新的射灯。</li>
+               <li>优化回家的自动化逻辑。</li>
+               <li>创建了双击切换灯光效果。</li>
+            </ul>
+          </li>   
+          <li>更换了海报墙的照片。</li>
+          <li>购入了Woojer 增加电视观影的体验感。</li>                     
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等新的地毯到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 > ### 一月改动 🗓
 
@@ -58,7 +113,7 @@
       </td>
       <td align="left" valign="top">
         <ul>
-          <li>等定制的海报框和定制的海报到。</li>
+          <li>待定。</li>
         </ul>
       </td>
     </tr>
