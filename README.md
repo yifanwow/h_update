@@ -13,6 +13,53 @@
 
 ## 2026
 
+> ### 三月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>电视柜增加智能射灯</li>
+              <li>新增环太平洋手办</li>
+              <li>挪动了球状装饰灯到了钢琴区域</li>
+          </li> 
+            </ul>
+          </li> 
+           <li>Home Assistant
+            <ul>
+              <li>进一步优化家庭自动化效果。</li>
+               <li>如果开启氛围模式，自动让其他灯光开启或者关闭</li>
+              <li>自动开灯有一个逐渐亮起的效果</li>
+            </ul>
+          </li>                    
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等新的地毯到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 > ### 二月改动 🗓
 
 <table>
