@@ -1,6 +1,6 @@
 # Home Updates Journal
 
-> 用 Git 记录每天家里做了什么（可视化 + 可检索 + 可复盘）
+> 用 Git 记录每段时间家里更新了什么。
 
 ## 重点事项
 
@@ -12,6 +12,59 @@
 
 
 ## 2026
+> ### 四月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>电视柜智能射灯升级</li>
+              <li>客厅挂画射灯升级</li>
+              <li>新增两个鹿角蕨</li>
+              <li>新增了音响悬浮支架</li>
+               <li>增加了林间地毯</li>          
+<li>玄关处更新<ul>
+              <li>替换海报模块</li>
+               <li>增加植物</li>
+               <li>徽章展示区升级</li>
+            </ul></li>
+<li>洗手间收纳+新香水展示</li>
+              <li>客厅展示柜收拾腾空+新的摆件</li>
+          </li> 
+            </ul>
+          </li> 
+           <li>Home Assistant
+            <ul>
+              <li>自动化场景可以联动播放声音。</li>
+            </ul>
+          </li>                    
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等有机会设计几个小架子。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 > ### 三月改动 🗓
 
