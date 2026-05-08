@@ -12,6 +12,57 @@
 
 
 ## 2026
+
+> ### 五月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>调整了一下沙发背后的线材管理</li>
+          </li> 
+            </ul>
+          </li> 
+          <li>网络安全
+            <ul>
+              <li>升级路由器安全性和稳定性</li>
+          </li> 
+            </ul>
+          </li> 
+           <li>Home Assistant
+            <ul>
+              <li>新增加Zigbee网关。</li>
+               <li>把3个usb的wifi继电器给升级成为了zigbee协议。</li>
+            </ul>
+          </li>                    
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等下一次海运的小架子到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 > ### 四月改动 🗓
 
 <table>
@@ -36,6 +87,7 @@
               <li>替换海报模块</li>
                <li>增加植物</li>
                <li>徽章展示区升级</li>
+               <li>超大乔巴</li>
             </ul></li>
 <li>洗手间收纳+新香水展示</li>
               <li>客厅展示柜收拾腾空+新的摆件</li>
