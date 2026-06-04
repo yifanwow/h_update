@@ -29,6 +29,7 @@
          <li>客厅区域
             <ul>
               <li>调整了一下沙发背后的线材管理</li>
+              <li>加了一面超大的镜子</li>
           </li> 
             </ul>
           </li> 
@@ -41,7 +42,9 @@
            <li>Home Assistant
             <ul>
               <li>新增加Zigbee网关。</li>
-               <li>把3个usb的wifi继电器给升级成为了zigbee协议。</li>
+              <li>把3个usb的wifi继电器给升级成为了zigbee协议。</li>
+              <li>把家里所有的只能插座都升级成了zigbee协议。</li>
+              <li>新增了植物区块的土壤监控。</li>
             </ul>
           </li>                    
         </ul>
