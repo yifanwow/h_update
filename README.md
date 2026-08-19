@@ -13,6 +13,111 @@
 
 ## 2026
 
+
+> ### 六月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>雷塞1/6雕像</li>
+              <li>千与千寻1/6摆件</li>
+              <li>整理了一下电视柜的摆放</li>
+          </li> 
+            </ul>
+          </li> 
+          <li>设备
+            <ul>
+              <li>衣帽间添加了一个湿度/温度控制器</li>
+          </li> 
+            </ul>
+          </li> 
+          <li>植物
+            <ul>
+              <li>加固了一下大龟背竹的攀附柱</li>
+              <li>修剪了一下植物区</li>
+          </li> 
+            </ul>
+          </li> 
+          </li>                    
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等新买的唱片系统到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+> ### 六月改动 🗓
+
+<table>
+  <thead>
+    <tr>
+      <th>✅ 已完成</th>
+      <th>🕵️‍♀️ 计划</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <ul>
+         <li>客厅区域
+            <ul>
+              <li>史迪仔加入大家庭</li>
+              <li>娜美的1/4手办</li>
+              <li>整理了一下电视柜的摆放</li>
+          </li> 
+            </ul>
+          </li> 
+          <li>中岛
+            <ul>
+              <li>重新设计了一下黑胶唱片架</li>
+              <li>重新设计了一下展示架</li>
+          </li> 
+            </ul>
+          </li> 
+          </li>                    
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul>
+          <li>等下一次海运的小架子到。</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th align="left" colspan="2">👻 经验/备注</th>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2">
+        拥抱变化。<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 > ### 五月改动 🗓
 
 <table>
